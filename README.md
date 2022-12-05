@@ -10,7 +10,7 @@ UPDATE PROXY!
 Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/kaQdEUB.jpg" width="300" height="250" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
-git clone https://github.com/ViDucHung2006/HaKiToV1.3.0
+git clone https://github.com/Minhduc0408/HaKiToV1.3.0
 pip install pystyle
 pip install asciimatics
 cd HaKiToV1.3.0
