@@ -16,7 +16,7 @@ pip install asciimatics
 cd HaKiToV1.3.0
 git pull
 python setup.py
-python3 new_methods.py
+php install.php
 ```
 # Username Lấy Tại
 ```sh
